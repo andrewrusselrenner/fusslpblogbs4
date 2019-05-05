@@ -2,4 +2,4 @@
 Fusslp Blog Untuk Tugas Jamal
 
 ## Link preview
-Kalau mau liat gimana bentuknya => [Klik saya](https://andrewrusselrenner.github.io/fusslpblogbs4/)
+Kalau mau liat gimana bentuknya => [Demo](https://fusslpblogdemo.000webhostapp.com)
